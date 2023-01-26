@@ -1,6 +1,6 @@
 
 ### Hi there I'm Sevilay Malkoç👋
-#### I'm a senior computer engineering student at Kocaeli University.
+
 
 - 🌱 I’m currently learning Unsupervised Learning 
 
